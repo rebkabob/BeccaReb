@@ -1,3 +1,3 @@
-First year master student in astronomy at University of Oslo
+Hello! I am a first year astronomy student at UiO.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeccaReb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeccaReb)
